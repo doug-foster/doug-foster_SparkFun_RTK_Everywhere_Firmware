@@ -39,7 +39,7 @@ Locate a GPS monument. These are the little metal caps, placed by surveyors, emb
 
 *Boulder has a large number of monuments*
 
-Thankfully, in the USA the National Geodetic Survey has an incredible database of public monuments. Enter your location into the [NGS Data Explorer](https://www.ngs.noaa.gov/NGSDataExplorer/) to find the nearest monument. 
+Thankfully, in the USA the National Geodetic Survey has an incredible database of public monuments. Enter your location into ~~NGS Data Explorer~~ ([replaced by NGS Map](https://content.govdelivery.com/accounts/USNOAANOS/bulletins/378afb3)) to find the nearest monument. 
 
 ![Boulder's GPS monuments](img/VerifyAccuracy/SparkFun%20Verify%20RTK%20-%202%20Boulder%20GPS%20Sites.jpg)
 
